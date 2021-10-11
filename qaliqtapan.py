@@ -13,7 +13,6 @@ else:
 result=fir%sec
 print(result)
 
-#Nətərdi qağaaaş?
 
 
 
